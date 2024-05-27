@@ -1,0 +1,172 @@
+{
+    "title": "AuditoryMemoryandVisualStimulations",
+    "description": "We investigate whether frontoparietal activity can be selectively entrained by rhythmic sensory stimulations (visual rotation) and whether this entrainment can causally modulate task performance in another modality (auditory working memory). We show that rhythmic visual presentations of rotating shapes, known to activate the dorsal pathway, increase frontoparietal connectivity at stimulation frequency as measured with MEG/EEG. We then show that frontoparietal theta oscillations predict auditory working memory performance. Last, we demonstrate that theta rhythmic visual stimulation applied during auditory memory causally enhances performance, and both the rotating properties of the stimulus and its flickering frequency drive the effect. This study provides causal evidence of the supramodal role of the frontoparietal network in human cognition.",
+    "dates": [
+        {
+            "date": "2018-03-29 00:00:00",
+            "type": {
+                "value": "start date"
+            }
+        },
+        {
+            "date": "2019-03-29 00:00:00",
+            "type": {
+                "value": "end date"
+            }
+        }
+    ],
+    "creators": [
+        {
+            "name": "McGill University"
+	},
+	{
+		"name": "Philippe Albouy",
+		"roles": [
+			{
+				"value": "Principal Investigator"
+			}
+		]
+	}
+    ],
+    "types": [
+        {
+            "information": {
+                "value": "electroencephalography",
+                "valueIRI": "http://uri.interlex.org/base/ilx_0741211"
+            }
+        }
+    ],
+    "version": "1.0",
+    "privacy": "registered",
+    "distributions": [
+        {
+            "formats": [
+                "EDF",
+                "JSON"
+            ],
+            "size" : 2.3,
+            "unit" : {
+                "value": "GB"
+            },
+            "access" : {
+                "landingPage" : "",
+				"authorizations": [
+					{
+						"value": "private"
+					}
+				]
+            }
+        }
+    ],
+    "isAbout": [
+		{
+      		"name": "Homo sapiens",
+     		"identifier": {
+        		"identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        		"identifierSource": "NCBI Taxonomy Database"
+			}
+    	}
+    ],
+    "spatialCoverage": [
+        {
+            "name": "North America",
+            "description": ""
+        }
+    ],
+    "licenses": [
+        {
+            "@type": "License",
+            "name": "CC-BY",
+            "version": "4.0"
+        }
+    ],
+	"primaryPublications" : [
+		{
+            "identifier" : {
+				"identifier": "https://www.science.org/doi/10.1126/sciadv.abj9782"
+			}
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "Total number of sessions",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        },
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "eegnet-logo_0.png"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "Canadian"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "766"
+				}
+			]
+		},
+		{
+			"category": "subjects",
+			"values": [
+				{
+					"value": "23"
+				}
+			]
+		},
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "McGill University"
+                }
+            ]
+        },
+        {
+            "category": "origin_city",
+            "values": [
+                {
+                    "value": "Montreal"
+                }
+            ]
+        },
+        {
+            "category": "origin_province",
+            "values": [
+                {
+                    "value": "Quebec"
+                }
+            ]
+        },
+		{
+			"category": "registrationPage",
+      		"values": [
+       			 {
+          			"value": "https://eegnet.loris.ca/"
+        		}
+			]
+    	},
+        {
+            "category": "origin_country",
+            "values": [
+                {
+                    "value": "Canada"
+                }
+            ]
+        }
+    ]
+}
