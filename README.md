@@ -3,7 +3,7 @@
 VIS
 
 **Expected experimentation period**\
-Start date: 29/03/2018
+Start date: 29/03/2018\
 End date: 29/03/2019
 
 **Experimental location**\
