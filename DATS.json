@@ -80,6 +80,32 @@
             "version": "4.0"
         }
     ],
+    "keywords": [
+        {
+        	"value": "eeg"
+	},
+	{
+		"value": "meg"
+	},
+	{
+		"value": "auditory processing"
+	},
+	{
+		"value": "behavior"
+	},
+	{
+		"value": "brain networks"
+        },		
+	{
+		"value": "memory"
+        },		
+	{
+		"value": "visual rhythmic stimulation"
+        },		
+	{
+		"value": "theta oscillation"
+        },		
+    ],
 	"primaryPublications" : [
 		{
             "identifier" : {
