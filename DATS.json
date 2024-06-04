@@ -49,7 +49,7 @@
                 "value": "GB"
             },
             "access" : {
-                "landingPage" : "",
+                "landingPage" : "https://portal.cbrain.mcgill.ca/userfiles/4974215",
 				"authorizations": [
 					{
 						"value": "private"
